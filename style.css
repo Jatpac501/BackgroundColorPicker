@@ -16,6 +16,7 @@
 }
 
 .input {
+  font-family: 'Open Sans';
   color: #fff;
   border: 1px border #000;
   background: rgba(0, 0, 0, 0.3);
